@@ -12,7 +12,7 @@ var animals = ["dog", "horse", "monkey"];
 console.log(animals.sort());
 animals.unshift("cat");
 console.log(animals);
-// END OF Intermediate 1.2
+// Intermediate 1.2 END 
 
 
 var fruitString = "mango/cherries/kiwi/grapes/pear/peach/orange/lemon";
@@ -21,3 +21,4 @@ var tempFruit = new Array();
 tempFruit = fruitString.split("/");
 console.log(tempFruit.join("\n"));
 document.write(tempFruit.join("<br>"));
+// Intermediate 1.3 END 
