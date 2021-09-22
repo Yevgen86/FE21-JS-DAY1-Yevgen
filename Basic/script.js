@@ -4,3 +4,4 @@ document.write("Hello from the Browser <br>");
 
 console.log("Hi my name is Martin");
 document.write("Hi my name is Martin");
+// END OF BASIC 1.2
